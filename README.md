@@ -1,79 +1,35 @@
-# testing223
-
-# BabysitterApp
- 
-BabysitterApp is a comprehensive platform designed to connect parents with qualified babysitters. The app provides a user-friendly interface for parents to book babysitting services and for babysitters to manage their schedules and bookings.
- 
-## Features
- 
-- **User Authentication**: Separate login and registration for parents and babysitters.
-- **Home Page**: For parents to view available babysitters.
-- **Babysitter Profiles**: Detailed information about babysitters, including ratings and reviews.
-- **Booking System**: Parents can book babysitters, view booking details, and manage their reservations.
-- **Babysitter Dashboard**: Babysitters can manage their availability, bookings, and profile information.
-- **Notification System**: Real-time notifications for booking updates and other relevant information.
- 
-## Installation and Setup
- 
-1. **Clone the Repository**:
- 
-   ```bash
-   git clone https://github.com/yourusername/BabysitterApp.git
-   cd BabysitterApp
-   ```
- 
-2. **Install Dependencies**:
- 
-   Ensure you have the necessary tools and dependencies installed, such as Xcode for iOS development.
- 
-   ```bash
-   pod install
-   ```
- 
-3. **Open the Project**:
- 
-   Open the project in Xcode using the `.xcworkspace` file.
- 
-4. **Configure Backend Services**:
- 
-   Set up any required backend services (e.g., Firebase) and configure the necessary API keys and endpoints.
- 
-5. **Run the App**:
- 
-   Select the appropriate simulator or device and run the app.
- 
-## Usage
- 
-- **Parents**: Can search for babysitters, view profiles, and book services.
-- **Babysitters**: Can update their availability, accept bookings, and manage their profiles.
- 
-## Project Structure
- 
-- **Models**: Contains data models for parents, babysitters, and reservations.
-- **Views**: UI components and view controllers for different screens.
-- **Services**: Contains services for authentication, data handling, and business logic.
-- **Helpers**: Utility functions and helpers.
- 
-## Dependencies
- 
-- **UIKit**: For building the user interface.
-- **Firebase**: Used for authentication, database, and storage.
-- **Alamofire**: For network requests.
- 
-## Contributing
- 
-We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to get started.
- 
-## License
- 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
- 
-## Contact Information
- 
-For any questions or suggestions, please contact us at [contact@example.com](mailto:contact@example.com).
+TBCFinalProject
+Overview
+TBCFinalProject is a comprehensive fitness and health app designed to help users track their health metrics, set fitness goals, and monitor their progress over time. The app is built using Swift and follows best practices for performance and user experience.
+Features
+User Authentication: Secure login and registration.
+Health Metrics Tracking: Monitor vital health statistics.
+Goal Setting: Set and track fitness goals.
+Progress Monitoring: View progress with detailed charts and graphs.
+Notifications: Get reminders and alerts for goals and activities.
+Installation
+To install and run the project locally:
+Clone the repository:
+Navigate to the project directory:
+Open the project in Xcode:
+Build and run the project on your preferred simulator or device.
+Usage
+Once the app is installed, create an account or log in with your existing credentials. Navigate through the app to explore features such as health tracking, goal setting, and progress monitoring.
+Contributing
+We welcome contributions to enhance the app. To contribute:
+Fork the repository.
+Create a new branch:
+Make your changes and commit them:
+Push to the branch:
+Create a pull request describing your changes.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+Contact
+For any inquiries or feedback, please reach out to us at contact@example.com.
+bashCopy codegit push origin feature-branch
+bashCopy codegit commit -m "Add new feature"
+bashCopy codegit checkout -b feature-branch
+bashCopy codeopen TBCFinalProject.xcodeproj
+bashCopy codecd TBCFinalProject
+bashCopy codegit clone https://github.com/ananamgaladze/TBCFinalProject.git
 has context menu
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-26 at 23 38 33](https://github.com/user-attachments/assets/ac39b825-de85-4258-ae96-ca35b3a41ece)
-
-![Assistante maternelle ou nounou à domicile _ le casse-tête du coût de la garde d’enfant](https://github.com/user-attachments/assets/effdd93c-55ea-49e3-94b7-b02543bb24af)
-
